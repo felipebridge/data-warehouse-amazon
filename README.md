@@ -1,5 +1,6 @@
 # Data Warehouse Amazon
 Proyecto desarrollado en el marco de la materia Análisis de la Información y la Decisión de la Universidad de Palermo.
+
 ![PowerBI Dashboard](docs/dashboard%20BI/Panel%20Ejecutivo%20(1).png)
 
 Proyecto Data Warehouse utilizando:
