@@ -1,4 +1,5 @@
 # Data Warehouse Amazon
+![PowerBI Dashboard](docs/dashboard%20BI/Panel%20Ejecutivo%20(1).png)
 
 Proyecto Data Warehouse utilizando:
 
@@ -6,6 +7,11 @@ Proyecto Data Warehouse utilizando:
 - MySQL (OLTP + Data Warehouse)
 - Power BI (explotación OLAP)
 - Docker (infraestructura reproducible)
+
+---
+
+## Star Schema
+![Star Schema](docs/star%20schema/Star%20Schema.png)
 
 ---
 
