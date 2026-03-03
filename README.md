@@ -47,3 +47,7 @@ El modelo se explota mediante herramientas OLAP (Power BI).
 
 El proyecto utiliza Docker para levantar MySQL.
 
+## Estado del proyecto
+
+Proyecto Finalizado
+
