@@ -1,4 +1,4 @@
-# Data Warehouse Project - Amazon Dataset
+# Data Warehouse Project - Amazon 
 
 ![PowerBI Dashboard](docs/dashboard%20BI/Panel%20Ejecutivo%20(1).png)
 
