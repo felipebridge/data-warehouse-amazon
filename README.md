@@ -2,7 +2,7 @@
 
 ![PowerBI Dashboard](docs/dashboard%20BI/Panel%20Ejecutivo%20(1).png)
 
-Proyecto Data Warehouse utilizando:
+ Data Warehouse utilizando:
 
 - Python (ETL)
 - MySQL (OLTP + Data Warehouse)
